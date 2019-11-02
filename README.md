@@ -2,6 +2,7 @@
 
 Control light intensity with head rotation to give the face mask an iridescent effect.
 
+![](screenshot.jpg)
 
 ## Resources
 
